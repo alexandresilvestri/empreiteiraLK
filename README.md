@@ -13,7 +13,7 @@ This is the first real project built with plain HTML, CSS, and JavaScript, aimed
 ✅ Homepage with the company's institutional presentation
 ✅ Embedded institutional video (Wistia)
 ✅ Dynamic cards displaying ongoing projects with external links
-✅ Responsive navbar with hamburger menu
+✅ Responsive navbar with menu burger
 ✅ Footer with contact info, credits, and social media links
 ✅ Floating WhatsApp icon with direct link to customer support
 ✅ Fully responsive design for mobile devices
