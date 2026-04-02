@@ -1,64 +1,64 @@
-# 🏗️ Empreiteira LK — Site Institucional
+# 🏗️ Empreiteira LK — Institutional Website
 
-# Acesse o site por aqui -> [Link](https://empreiteiralk.site/)  
+# Visit the website here -> [Link](https://empreiteiralk.site/)
 
-## 📌 Propósito do Projeto
+## 📌 Project Purpose
 
-Este é o primeiro projeto real desenvolvido com HTML, CSS e JavaScript puros, com o objetivo de criar um site institucional para a **Empreiteira LK**. O site visa apresentar a empresa, exibir as principais obras em andamento, disponibilizar um canal de contato direto com clientes e fortalecer a presença digital da marca no setor da construção civil.
-
----
-
-## 🛠️ Funcionalidades Implementadas
-
-✅ Página inicial com apresentação institucional da construtora  
-✅ Vídeo institucional incorporado (Wistia)  
-✅ Cards dinâmicos com obras em andamento e links externos  
-✅ Menu navbar responsivo com efeito hamburguer  
-✅ Footer com informações de contato, autoria e redes sociais  
-✅ Ícone flutuante do WhatsApp com link direto para atendimento  
-✅ Design 100% responsivo para dispositivos móveis  
-✅ Formulário de contato funcional integrado com FormSubmit  
+This is the first real project built with plain HTML, CSS, and JavaScript, aimed at creating an institutional website for **Empreiteira LK**. The site presents the company, showcases ongoing construction projects, provides a direct contact channel for clients, and strengthens the brand's digital presence in the civil construction industry.
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+## 🛠️ Features
 
-- **HTML5**  
-- **CSS3** (Flexbox, Grid Layout, Media Queries)  
-- **JavaScript** (DOM, eventos e navegação por seções)  
-- **Bootstrap 5** (CDN para componentes e responsividade)  
-- **Google Fonts**  
-- **Figma** (prototipação e wireframe - opcional)
+✅ Homepage with the company's institutional presentation
+✅ Embedded institutional video (Wistia)
+✅ Dynamic cards displaying ongoing projects with external links
+✅ Responsive navbar with hamburger menu
+✅ Footer with contact info, credits, and social media links
+✅ Floating WhatsApp icon with direct link to customer support
+✅ Fully responsive design for mobile devices
+✅ Working contact form integrated with FormSubmit
 
 ---
 
-## 📁 Estrutura do Projeto
+## 🧩 Technologies Used
+
+- **HTML5**
+- **CSS3** (Flexbox, Grid Layout, Media Queries)
+- **JavaScript** (DOM, events, and section-based navigation)
+- **Bootstrap 5** (CDN for components and responsiveness)
+- **Google Fonts**
+- **Figma** (prototyping and wireframe - optional)
+
+---
+
+## 📁 Project Structure
 
 ```
 📦 empreiteira-lk
-├── index.html                 # Página principal com todas as seções
+├── index.html                 # Main page with all sections
 ├── CSS/
-│   ├── style.css              # Estilo base e variáveis
-│   ├── header.css             # Estilo da navbar
-│   ├── media.css              # Responsividade
-│   ├── apresentacao.css       # Seção institucional com vídeo
-│   ├── cards.css              # Estilo dos cards das obras
-│   ├── contato.css            # Seção de contato
-│   ├── footer.css             # Rodapé
-│   └── whatsapp.css           # Botão flutuante do WhatsApp
+│   ├── style.css              # Base styles and variables
+│   ├── header.css             # Navbar styles
+│   ├── media.css              # Responsive design
+│   ├── apresentacao.css       # Institutional section with video
+│   ├── cards.css              # Project cards styles
+│   ├── contato.css            # Contact section
+│   ├── footer.css             # Footer
+│   └── whatsapp.css           # Floating WhatsApp button
 ├── JS/
-│   ├── header.js              # Lógica do menu responsivo
-│   ├── navbarNavegation.js    # Scroll suave entre seções
-│   └── cards.js               # Carrossel de cards das obras
+│   ├── header.js              # Responsive menu logic
+│   ├── navbarNavegation.js    # Smooth scroll between sections
+│   └── cards.js               # Project cards carousel
 ├── imgs/
-│   ├── *.jpg / *.png          # Logos, imagens das obras e ícone do WhatsApp
-├── favicon.ico                # Ícone do site
-└── README.md                  # Este arquivo
+│   ├── *.jpg / *.png          # Logos, project images, and WhatsApp icon
+├── favicon.ico                # Site icon
+└── README.md                  # This file
 ```
 
 ---
 
-## 👨‍💻 Desenvolvido por
+## 👨‍💻 Developed by
 
-**Alexandre Silvestri**  
+**Alexandre Silvestri**
 [LinkedIn](https://www.linkedin.com/in/alexandre-silvestri-2a94ab318)
